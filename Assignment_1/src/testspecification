@@ -1,0 +1,22 @@
+Test cases for isValid:
+John Doe 1/2/1999 CS 25
+Mike Hawk 2/29/2004 EE 18
+April May 2/29/2003 EE 20
+Ben Dover 2/32/2001 BAIT 200
+Dixon Cider 1/35/2000 EE 10
+Tayley Ham  13/5/2003 CS 100
+Winston Lei 4/31/2002 CS 200
+
+Test Cases for compareTo:
+1.John Doe 1/1/2002 CS 25
+John Doe 1/1/2002 EE 100
+2.Mike Hawk 2/2/2001 CS 100
+Mike Haw 2/2/2001 CS 100
+3.Tayley Ham 1/10/2000 EE 100
+Haley Tam 2/25/1999 BAIT 40
+4.Jane Doe 1/2/2001 CS 100
+Jane Doe 1/5/2003 EE 10
+5. Sam Doe 1/1/2000 EE 100
+Jane Doe 1/1/2000 EE 100
+6. Hello World 1/2/1999 BAIT 50
+World World 1/2/1999 BAIT 50

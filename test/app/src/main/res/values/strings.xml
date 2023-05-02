@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">test</string>
+    <string-array name = "Size">
+        <item>Short</item>
+        <item>Tall</item>
+        <item>Grande</item>
+        <item>Venti</item>
+    </string-array>
+</resources>

@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Demo ObservableList</string>
+    <string-array name="test">
+        <item>a</item>
+        <item>b</item>
+        <item>c</item>
+        <item>d</item>
+        <item>e</item>
+    </string-array>
+</resources>
